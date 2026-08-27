@@ -1,4 +1,4 @@
-# Technical-writing-portfolio
+# Technical writing portfolio
 
 A set of writing samples built to show range across the formats technical teams actually need: explainers, engineering narratives, and tutorials.
 
